@@ -6,4 +6,4 @@ Uno dei miei piatti prefereitio
 *Aglio
 *olio
 *peperoncino
-
+*prezzemolo
