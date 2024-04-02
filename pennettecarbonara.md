@@ -5,6 +5,6 @@ le famose pennette all acarborara
 
 °penne
 *uova 
-*pancetta 
+*guanciale 
 *pepe nero
 
