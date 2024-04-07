@@ -4,5 +4,9 @@ Un ottimo piatto invernale
 *patate
 *cipolle
 *carote
+*zucchine
+*peperoni
+*fagioli
+
 
 
